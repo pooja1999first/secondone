@@ -1,0 +1,1013 @@
+Internet websites offer lots of different services, one of the most popular being online
+shopping.
+When you explore an online shopping website, navigating through pages, choosing different
+product categories, or comparing products, you are interacting with the front-end of
+a website.
+Let us see how the front-end of a website is developed by front-end developers.
+For this, we need to understand how a website is made.
+To create a website, web developers usually use Hypertext Markup Language (HTML), Cascading
+Style Sheets (CSS) and JavaScript. These languages are designed to work in conjunction with each
+other.
+HTML is used to create the physical structure of a website.
+The physical structure contains elements such as text, links, images/videos, page dividers
+and buttons.
+The HTML code ensures a proper formatting of all text and image elements so that browsers
+display the page consistently.
+The backend developer codes the structure of the website.
+A website is like a house which has only been constructed.
+Just like we need interior designers to add style to a space, we need front-end developers
+to add the necessary glamor and appeal to a website.
+When you order products from any website, you realize that the pages have a pleasing
+font style, attractive colors and are easy to navigate.
+Developers use CSS to create stylish websites.
+CSS provides front-end developers with a standard method to define, apply, and manage different
+sets of style characteristics for a website and each of its components.
+CSS ensures uniformity in look and feel, style, colors, fonts, designs and layouts.
+So, HTML is used to create the structure and CSS is used to design it and make it appealing.
+CSS is also used to create websites that have cross browser compatibility which means that
+they are compatible with multiple browsers and multiple devices such as PC, mobile devices,
+iPads etc.
+Online shopping websites are intuitive, interactive and quick to load. This is where
+JavaScript comes into the picture.
+JavaScript is an object-oriented programming language that is used in conjunction with
+HTML and CSS to add interactivity to a website.
+For example, you use HTML to add a login button to a page, and CSS to style that button.
+You then use JavaScript to add log-in functionality to that button.
+A new front-end development language is Syntactically Awesome Style Sheets (SASS).
+It is an extension of CSS that is compatible with all versions of CSS.
+SASS enables you to use things like variables, nested rules, and inline imports to keep things
+organized.
+SASS allows you to create style sheets faster and more easily.
+Another language that is being used now is Learner Style Sheets (LESS).
+LESS enhances CSS, adding more styles and functions. It is backwards compatible with
+CSS.
+Less.js is a JavaScript tool that converts the LESS styles to CSS styles.
+Using all these languages, websites are designed as reactive and responsive.
+Reactive or adaptive websites display the version of the website designed for a specific
+screen size.
+For example, a website can provide more information if opened on a PC than when opened on a mobile
+device.
+Responsive design of a website means that it will automatically resize to the device
+it is being accessed from.
+For example, if you open up a products website on your mobile device, it will adapt itself
+to the small size of the screen and still show you all the features.
+A JavaScript framework is an application framework that is written in JavaScript.
+Programmers can manipulate the different functions, use them wherever required and can create
+device responsive applications.
+A few examples of several frameworks being used are:
+Angular framework is an open-source framework and is being maintained by Google.
+Angular frameworks allow websites to render the HTML pages quickly and efficiently.
+It has built-in tools for routing and form validation.
+React.js has been developed and maintained by Facebook.
+It is a JavaScript library that builds and renders components for a web page.
+It is not a complete suite of tools.
+For example, routing is not a part of this framework and will need to be added using
+a third-party tool.
+React.js only helps build and drop components into a page.
+Vue.js is maintained by the community and its main focus is the view layer which includes
+user interface, buttons, and visual components.
+It is flexible, scalable and integrates well with other frameworks.
+It is very adaptable – it can be a library, or it can be the framework.
+The task of a front-end developer evolves continuously.
+The technologies are upgraded constantly and so front-end developers needs to keep
+upgrading the websites that they create.
+The websites that they create should work in multiple browsers, multiple operating systems
+and multiple devices.
+
+
+Welcome to Introducing Application Development Tools.
+Getting your Cloud App from the ideas stage to fully formed, written, and deployed is
+a long process, but there are many tools which will help you along the way.
+A cloud application developer’s workbench includes:
+Version Control, Libraries, and Frameworks.
+When many developers are working on the same project, knowing what order changes were made,
+thereby creating a new version of the source code, becomes overridingly important.
+Version control systems keep track of what changes were made when and by whom and resolve
+any conflicts between changes.
+For developing your code version control can be useful even when you are the sole contributor
+on a project.
+Properly used, it can give you a way to revert to an older version of your code if something
+goes wrong and gives you some basic information about how the code developed over time.
+Version control functionality is generally tied to the storage system you are using,
+which is why a code repository is recommended, even for beginners.
+Git and GitHub are extremely popular for source code storage and management.
+Git stores files in repositories where you can track changes, split code into different
+branches for more focused development, and then merge them back into the main body of
+code.
+Libraries are collections of code, like standard programs and subroutines, that you can use
+within your code.
+For example, you might want to include a navigational feature, like a carousel – a code library
+can supply you with the code for that so that you don’t have to spend the time and energy
+creating one from scratch.
+Being able to reuse code in this way makes developing your app much quicker and easier.
+Multiple code libraries can be integrated into your existing project.
+As you discover a need for a specific function or feature, you can research an appropriate
+library.
+You determine when to call the required method as needed, and control returns to the program
+flow once the subroutine is finished.
+When you use a code library, you are in control.
+Code libraries are generally used to solve a specific problem or add a specific feature
+set.
+Either way, there are lots for you to choose from, so do your research.
+Here are some examples of code libraries:
+jQuery is a JavaScript library that simplifies Dom manipulation.
+Email-validator is a small library that checks an email address is correctly constructed
+and valid.
+Apache Commons Proper is a repository of reusable Java components.
+Frameworks provide a standard way to build and deploy applications.
+You can think of a framework as being a skeleton that you can extend by adding your own code,
+providing a scaffold on which to build your apps.
+The framework you intend to use must be determined early in your development planning and used
+right from the beginning.
+New frameworks can’t be incorporated into an existing project.
+Your chosen framework dictates the architecture of your program and controls the program flow.
+The framework determines which subroutines and methods will be called when. When working
+with a framework, there is a specific structure that you must follow.
+The framework is callingcalls on your code, rather than you calling on the framework.
+Frameworks are less flexible than libraries, allowing you less control, but they do provide
+good standardization and can help you create efficient code.
+To use an analogy, if you are a carpenter building a house, the framework is the frame
+that you add to – bricks on the outside, plasterboard on the inside, and so on.
+The frame acts as a guide for how the house is constructed.
+Here are some examples of frameworks:
+AngularJS is a JavaScript-based framework for dynamic web applications.
+Vue.js is a JavaScript framework focused on the user interface.
+Django is a framework that uses Python for web development.
+Frameworks define the workflow that you must follow, unlike libraries, which allow you
+to call functions as and when required.
+When using a framework, it can sometimes feel like you, as a developer, are not in full
+control of the development process.
+This sense of the framework and its predefined workflow controlling the development process
+is referred to as inversion of control.
+Frameworks that have a lot of control are known as opinionated – they have opinions
+on how their workflow should be used and remove a lot of the decisions you would otherwise
+have to make about how code is written, the location of files, and even file names.
+Frameworks often include their own libraries, which they call when needed.
+Inversion of control allows you to create standardized apps, and takes away a lot of
+the tedious configuration work, so you can focus on the code for your app.
+In this video, you’ve learned about some of the tools that you will utilize in your
+career as a developer including:
+Version control, libraries, frameworks
+
+
+3 -
+Welcome to More Application Development Tools.
+Let’s look at some tools which can help you get your app built and deployed:
+CI/CD, Build Tools, Packages, and Package Managers.
+CI/CD refers to the practices of continuous integration and either continuous delivery
+or continuous deployment.
+CI/CD is a best practice for devops teams enabling developers to deliver frequent changes
+reliably.
+Implemented through a build-automation server, Continuous Integration (CI) ensures that all
+the code components work together smoothly.
+A CI build environment enables you to integrate newly developed code frequently, at least
+every day, if not every hour, depending on how quickly the project changes.
+Continuous delivery (CD) begins where CI ends. The CI process automatically builds and tests
+your code, then CD deploys all code changes in a build to a testing or staging environment.
+A build tool transforms your source code into the binaries needed for installation.
+Build tools organize your source code, set compile flags, and manage dependencies.
+They are most important in environments where there are many inter-connected projects, with
+multiple developers contributing to each project.
+In these environments it can be very difficult to keep track of what changes were made, in
+what order, what dependencies exist, and what needs to be incorporated in the next build,
+so automation is key to keeping everything running smoothly.
+Build automation can automate a wide variety of tasks that developers do in their day-to-day
+activities like:
+Downloading dependencies.
+Compiling source code into binary code.
+Packaging that binary code.
+Running tests.
+Deployment to production systems.
+You can initiate a build from the command line or from an IDE.
+There are two categories of Build Tools widely in use:
+Build-automation utilities, which generate build artifacts like executables, by compiling
+and linking source code.
+Build-automation servers, which execute build-automation utilities on a scheduled or triggered basis.
+Some examples of build tools are:
+Webpack – a module bundler for JavaScript
+Babel – a JavaScript compiler
+Now that you have your app developed and tested, you’re ready to deploy.
+But how does that happen?
+The app needs to be simple and trouble free for the user to install, so a commonly used
+technique is to collect all the necessary files and bundle them together into a package.
+Packages are archive files that contain the app files, instructions for installation,
+and any metadata that you choose.
+They have their own metadata too, including the package description, package version,
+and any dependencies, like other packages that need to be installed beforehand.
+Once you have bundled your app into a package, you can use a package manager to distribute it.
+Package managers take care of the tasks of finding, installing, maintaining or uninstalling
+software packages at the user's request.
+Package management systems:
+Coordinate with file archivers to extract package archives
+Verify checksums and digital certificates to ensure the integrity and authenticity of
+the package
+Locate, download, install, or update existing software from a software repository
+Manage dependencies to ensure a package is installed with all packages it requires
+Some commonly used package managers for each of the major platforms are listed here:
+On Linux - Debian Package Management System (DPKG) and Red Hat Package Manager (RPM)
+On Windows - Chocolatey
+On Android - Package Manager
+On MacOS - Homebrew and MacPorts
+Any libraries that are used or utility code that is developed as part of the application
+is managed with the cloud application package managers.
+Here are some examples of package managers for popular languages:
+For Node.js/Javascript - npm
+For Java - Gradle and Maven
+For Ruby - RubyGems
+For Python - Pip and Conda
+In this video you’ve learned about some of the tools that you will utilize will support
+you in your career as a developer , including:
+CI/CD, Build Tools, Packages, Package Managers
+
+
+4 -
+Welcome to the importance of back-end development.
+A front-end developer creates websites and Cloud applications, using HTML, CSS and JavaScript
+to create what the user sees and interacts with in the client software.
+A back-end developer creates and manages all the resources that are needed to respond to
+the requests that the user makes through the client.
+The back-end developer’s tasks focus on enabling the server infrastructure, or back-end,
+to process requests, supply data, and provide other services securely.
+Front-end and back-end developers must work together very closely.
+Each needs to understand the requirements of the solution and how their respective parts
+will interact before the development process can begin.
+Throughout the lifecycle of the website or Cloud app, front-end and back-end developers
+collaborate to resolve issues and add functionality.
+How does the work of a back-end developer affect you as you are browsing the internet
+or using a Cloud app?
+Think about it like this: when you’re shopping online, what happens to the data you enter?
+Your login information, your product searches, your payment info?
+The back-end processes all these things, and the back-end developers write and maintain
+the parts of the application that process the inputs.
+Let’s think about your experience as you explore an online shopping site and make a
+purchase.
+As you search for products, your search request is submitted to a web application which then
+retrieves the data from a separate database and serves it back to the client for display.
+To facilitate this, a back-end developer must understand the language that the web application
+uses, how to query the database for the correct data, and how to bring the two together.
+Even a simple task like navigating around the site can require the skills of a back-end
+developer.
+Many sites have restricted areas that are only available to users who have an account
+and have logged in.
+User account management, authentication and authorization can be the responsibility of
+the back-end developer too.
+Once you’ve decided what you want to purchase, you must add it to your cart and make a payment.
+The purchase process requires you to submit sensitive information, such as your address
+and credit card number, and the back-end developer must ensure that this data is securely handled
+and stored.
+Front-end client interactions, whether a request for data like an image, accepting input from
+a user filling out a form, or securing sensitive information like a credit card number all
+require different services from the back-end server.
+Each request needs to interact with the back-end in a different way.
+Back-end developers use APIs, routes, and endpoints to process incoming requests:
+An API is code that works with data, usually using JSON or XML. APIs have set rules and
+structure.
+A route is a path to a website or page that the user interacts with.
+Routes generally take user input and show results based on the input.
+An endpoint may be an API or may simply be a path.
+When a request from the front-end arrives at the back-end, it is routed to the correct
+service.
+If the backend has an end point defined for the request by using routing, the request
+will be addressed and replied to.
+If the end point is missing, the server returns a 404 error.
+Back-end developers must create and maintain this server-side routing.
+Along with backend APIs, routes effectively allow the front-end client to plug into the
+correct socket at the back-end.
+APIs provide a mechanism for Cloud apps, mobile apps, and other types of software to access
+resources from the back-end.
+To perform all this back-end development you will need to be familiar with at least one
+back-end language, and its associated frameworks.
+Among the most popular languages today is JavaScript, which was originally designed
+to run in web browsers, adding extra interactivity and dynamic content to web pages.
+JavaScript is also being used on the back-end, with new releases adding server-side functionality.
+JavaScript has many frameworks, but two of the most well-known are Node.js and Express.
+Python is another popular language; it’s very flexible and easy to learn. Python has
+wide functionality – it can be used for everything from creating web pages to connecting
+to a database, to performing data analysis.
+Two well-known Python frameworks are Django and Flask.
+Back-end developers often work with data and databases, so you will also benefit from learning
+some SQL.
+To help handle requests from databases, back-end developers can use object-relational mapping
+tools (ORM) to connect to the database and retrieve the correct data.
+Although an ORM can hide some of the complexity of querying databases, it’s useful to understand
+the fundamentals of databases so that you can troubleshoot any issues that arise.
+The day-to-day tasks of a back-end developer focus on the behind the scenes functionality
+that keeps websites, cloud apps and mobile apps up and running.
+Back-end development covers a wide range of technologies, from managing user accounts,
+authentication and authorization to ensuring that sensitive data is stored and transferred
+securely.
+Back-end developers also work with databases, retrieving , processing and storing data as
+required.
+Life for a back-end developer is varied, challenging, and ever changing.
+
+5 --- basic terminology
+
+Introduction to Cloud Development with HTML, CSS, and JavaScript
+Module 1 Glossary: Introduction to Programming in the Cloud
+Term Definition
+
+Angular An open-source JavaScript framework
+
+AngularJS A framework for dynamic web applications
+
+API Code that allows two software programs to communicate
+with each other.
+Build Automation Allow you to download dependencies, compile code,
+package binary code, run tests, deploy to production.
+Build Automation
+Servers
+Execute build-automation utilities on a scheduled or
+triggered basis.
+Build Automation
+Utilities
+Generate executables by compiling and linking code.
+Continuous
+Integration/
+Continuous Deployment
+(CI/CD)
+ A method for releasing code and integrating it into
+code that has already been developed in order to
+prevent the application from breaking throughout the
+app’s lifecycle.
+Django A framework for Python web development.
+Dynamic Content Data that is created each time a request is sent to a
+server.
+Endpoint The point at which an API connects with the software
+program.
+Frameworks Provide a standard way to build an application.
+Frameworks dictate architecture and program flow.
+IDE “Integrated Development Environment” Helps create and
+manage code.
+Inversion of Control A predefined workflow where the developer is not in
+full control of how the application operates.
+JavaScript Framework An application framework written in JavaScript to
+create responsive sites.
+LESS “Learner Style Sheets” add more style and functions to
+CSS.
+less.js A JavaScript tool that converts LESS styles to CSS.
+Libraries Reusable collections of code
+Opinionated Frameworks that have a lot of control are sometimes
+considered “opinionated.“
+Package Managers Coordinate with file archivers to extract packages.
+Verify check sums and digital certificates. Locate,
+download, and install updates of existing software from
+a repository as well as manage dependencies. Common
+package managers include the following: Debian Package
+Management System (DPMS), Red Hat Package Manager for
+Linux, Chocolatery for Windows, Homebrew and MacPorts
+for MacOS.
+Packages Archive files that include app files, instructions for
+installation, and metadata.
+React.js A JavaScript framework developed by Facebook that helps
+build and drop elements onto a page.
+Responsive Design Design technique that automatically resizes a display
+to adapt to a specific screen size.
+Route Allows front-end client to plug into correct socket on
+the backend. They are the paths that network traffic
+takes from a virtual machine (VM) instance to other
+destinations.
+SASS “Syntactically Awesome Stylesheets” are an extension of
+CSS.
+Static Content A display of data that has been previously stored on a
+server.
+Version Control Allows you to revert to earlier versions of code,
+resolves conflicts between the same files, and split
+and merge different code branches.
+Vue.js A community-based JavaScript framework. Includes UI,
+buttons, other visual elements, and is both a library
+and a framework.
+VueJS A framework focused on UI.
+
+introduction to html
+
+Hello and welcome to Introduction to HTML.
+After watching this video, you will be able to:
+Explain what Hyper Text Markup Language (HTML) and HTML5 is,
+and list the objectives of HTML5.
+The core HTML specification includes this background information:
+HTML stands for HyperText Markup Language, which can be thought of as “the language
+of the Internet”.
+It is a markup language that was originally designed for sharing scientific documents.
+Adaptations to HTML over the years have made it suitable to describe a number of other types
+of documents that can be displayed as web pages on the Internet.
+HTML Elements are the building blocks of an HTML page. The pieces of content that form
+the page are assigned labels such as “paragraph,” “list,” and “table”.
+They are represented by tags.
+Browsers do not display the tags but use them to render the content.
+HTML has been in continuous evolution since it was introduced to the Internet in the early
+1990s by CERN:
+The European Organization for Nuclear Research and the IETF: Internet Engineering Task Force.
+The World Wide Web Consortium (W3C) made a number of recommendations to the HTML standards
+over the years.
+New features were continually added, and specifications changed over time.
+Initially, the Web Hypertext Application Technology Working Group (WHATWG) worked on recommendations
+independently.
+Then, in 2007, W3C formed a working group chartered to work with the WHATWG on the development
+of the HTML5 specification.
+The W3C published the specification under the W3C copyright, while a version with a
+less restrictive license was kept on the WHATWG site.
+Since 2007, both the W3C and WHATWG groups worked together on the development of the
+HTML5 standard.
+The HTML5 specification, as drafted by W3C, includes the following objectives:
+The HTML5 specification defines a single language called HTML5 that can be written in HTML or
+XML syntax.
+The HTML5 specification defines a processing model that can interoperate with earlier HTML
+implementations.
+HTML5 improves the markup for documents.
+HTML5 includes markup and APIs for idioms, such as web storage, video, and audio content.
+When speaking about creating web pages, developers may use the terms HTML and HTML5 interchangeably.
+In general, the term HTML implies HTML5.
+Use the full term HTML5 if you need to differentiate between versions, such as when discussing
+features new to HTML5.
+In this course, HTML refers to HTML5, unless specified otherwise.
+In this video, you learned:
+HTML stands for HyperText Markup Language, a markup language that enables documents to
+be displayed as web pages on the Internet.
+Tags represent the elements of an HMTL page like paragraphs, lists, and tables.
+HTML5, the latest version supports:
+Pages written in HTML or XML syntax,
+Interoperation with earlier HTML versions,
+Markup and APIs for web storage, video, and audio content
+
+
+Features of html
+
+List some of the features of HTML5,
+Describe the Document Object Model (DOM) tree,
+Explain when you would use XML and when you would use HTML.
+So, what are some HTML5 features?
+It provides the means to categorize web pages into different sections, and includes tools
+for effective data management, drawing, video, and audio.
+Facilitates the development of cross-browser applications for the web and portable devices.
+Allows greater flexibility, permitting the development of exciting and interactive websites.
+Helps to create a more engaging user experience. Pages that are designed by using HTML5 can
+provide an experience similar to desktop applications.
+Allows for enhanced, multiple-platform development by combining the capability of an application
+programming interface (API).
+By using HTML5, developers can create a modern application experience that is uniform
+across platforms and devices.
+Here is an example of a document that conforms to the syntax of HTML5.
+Documents that have the text/html media type are parsed using HTML rules.
+If a document is transmitted with an HTML content type, such as text/html, it is processed
+as an HTML document by web browsers.
+This example uses the following elements:
+The <!DOCTYPE> is a declaration tag that represents the document type.
+The <!DOCTYPE> declaration is not an HTML tag; it is an instruction to the web browser
+about what version of HTML the page is written in.
+Although this declaration is not required, it should be the first line of the HTML code
+if the developer decides to include it.
+The <html> tag is the root element of this tree.
+It contains all of the other HTML elements, except the <!doctype> tag.
+This example, contains two elements: <head> and <body>.
+The <head> tag contains a <title> tag, which contains the text “Sample page”
+in the example.
+The <head> element can contain the following tags:
+title ( <title>),
+scripts (<script>),
+style (<style>),
+style sheet links ( <link>),
+meta information (<meta>),
+browser support information and other initialization functions (<base>).
+Finally, the <body> tag contains all content that is displayed on the webpage.
+HTML user agents, commonly known as browsers, parse the markup, turning it into a DOM (Document
+Object Model) tree.
+A DOM tree is an in-memory representation of a document.
+DOM trees contain several kinds of nodes, which include a DOCTYPE node, elements such
+as headers and paragraphs, text nodes, and comment nodes.
+Here is an example of a document that conforms to the XML syntax of HTML5.
+Extensible Markup Language (XML) documents look similar to HTML documents, except they
+have an XML tag on the first line.
+In addition, with XML documents, the Content-type must be specified as an XML media type such
+as application/xml.
+When a document is transmitted with an XML content type, it is treated as an XML document
+by a web browser and an XML processor parses the document.
+How do you decide whether to use HTML or XHTML for developing web pages?
+Which of the two options you choose is related to how you intend to use the application
+For instance, are you using XSLT (Extensible Style Sheet Language Transformations) to create
+other documents and resources from your web pages?
+People are equally divided about whether to use XHTML or HTML.
+Both HTML and XHTML use the same semantic (tags). However, XHTML tags all need to be
+in lowercase, while the case used does not matter in HTML.
+In addition, XHTML must be well-formed.
+Every element must have an end tag. All attributes must have a value and double or single quotation
+marks must surround all attribute values.
+If an XML parser encounters a situation where the syntax is not well-formed, it stops processing.
+In HTML, different case, unmatched quotation marks, and non-terminated and uncontained
+elements are allowed and commonplace.
+In this regard, HTML syntax is less rigorous than XHTML syntax.
+In this video, you learned that HTML5
+Includes features for categorizing sections of web pages, and managing data, video and
+audio tools.
+Enables you to develop a single, cross-browser application for the web and portable devices,
+Helps you to create a more engaging user experience.
+The DOM tree is a representation of a document which is held in memory.
+It contains nodes which define the type and structure of the document.
+
+
+
+Best Features of html 4
+Hello, and welcome to HTML Management and Support.
+After watching this video, you will be able to:
+List some HTML document API properties and methods,
+Describe how scripting is enabled in browsers,
+Describe browser support for HTML5 features.
+Let’s examine some of the key themes of the HTML5 specification.
+The syntax it defines is compatible with HTML4 and XHTML1 documents.
+HTML5 is defined in a way that it is compatible with earlier versions in the way browsers
+handle deployed content.
+It separates conformance requirements for user agents and authors. In other words, how
+browsers treat HTML5 code and how page authors treat HTML5 code is different.
+For user agents, HTML5 is defined in a way that supports elements and attributes of the
+earlier specifications.
+For authors, several elements and attributes have been removed in order to simplify
+the language.
+HTML5 includes some elements and application programming interfaces that help in the creation
+of web applications.
+Examples include video and audio elements, and an API that supports the creation of offline
+applications.
+What do you think makes HTML suitable for creating web applications? There are a number
+of possible reasons:
+The range of devices that all have built-in browsers that support HTML5 features.
+The number of APIs that enhance the user experience, such as the advanced animation, drawings,
+audio, and video elements.
+The efficient use of HTML and CSS, while reducing the number of images, can lead to faster load
+times for rendering web pages.
+Search engine optimizations can use keywords that are taken from HTML attributes to improve
+the visibility of a website when search results are displayed.
+The meta tags shown are used to provide information to search engines.
+Here are some examples of elements in HTML5.
+New structural elements are part of the HTML5 specification. These markup elements help
+you to logically define the page structure.
+New APIs such as canvas, audio, and video help with graphics and embedded content.
+New attributes were added to the input element attributes.
+Examples include the email, datetime, and number types.
+The browser automatically validates the input field according to the input attribute, without
+the need for custom validation scripts.
+By using web storage APIs, you can store data in the browser.
+The web workers feature can be used for non-interactive processing. Web workers provide a way to run
+processing-intensive tasks without blocking the user interactions to the current page.
+In this video, you learned about:
+HTML5 Themes, which provide:
+Syntax compatible with HTML4 and XHTML1,
+New and refined APIs for video and audio elements, offline web apps, and drag and drop.
+About HTML5 Web Applications, which have:
+Improved search indexing with meta tags,
+Better page load times, and
+Enhanced user experience.
+And about HTML5 Elements, which enable you to define and manage web page structure
+and content.
+
+
+
+
+Css ---
+
+
+Hello and welcome to CSS: Styling HTML.
+After watching this video, you will be able to:
+Explain what a Cascade Style Sheet (CSS) is,
+Describe how to use CSS to format HTML elements,
+Describe how to use CSS in HTML documents to format web pages.
+By using a combination of HTML5, JavaScript, and cascading style sheets, developers can
+create web pages that can be displayed on desktop computers and mobile devices.
+These technologies have powerful features that can be used to show rich interactive
+applications without requiring plug-in technologies, like the Flash media player.
+HTML documents might be rendered to a browser window, or through a speech synthesizer to
+provide assistive technologies for vision impaired people.
+Being able to meet accessibility requirements is one advantage of using HTML markup over
+browser plug-ins for delivering interactive content.
+CSS is the design that is layered over the top of an HTML web page.
+CSS is a style sheet language that describes how HTML elements are displayed.
+What makes the style sheet “cascading” is that developers can apply CSS to create
+a uniform look throughout each element of each page of the website.
+Child and descendant elements often inherit styles that are defined for parent elements,
+however, exceptions to this rule do exist.
+For websites, it is an important concept to separate the data from the design.
+The data is sent to the browser by using HTML, and the design is applied to that data by
+using a CSS.
+This separation allows people to render a web page without your design if they have
+special accessibility needs.
+It allows machines (such as search engines) to index a website without the design interfering.
+You can code CSS as a style attribute in an HTML tag, a head section of a document, or
+an external document.
+The preference is to code CSS in external documents (referred to as style sheets).
+You can use CSS to control a document’s appearance and specify style rules for the
+following web page elements:
+Fonts, Text, Colors, Backgrounds, Sizes, Borders, Spacing, Positioning, Visual effects, Tables,
+and Lists.
+CSS style element are structured like this.
+In this example, the html-tag-name can be one of the following elements:
+Any of the tags you find in HTML code (for example, <a>, <div>, <li>, or <label>, etc.)
+An id reference that is displayed with a preceding hash symbol (#) in CSS code.
+A class reference that is displayed with a preceding dot/period (.) symbol in CSS
+code.
+When making a site design, begin by establishing the base style. Establish a base style by
+styling <body> tag, as shown here.
+This example makes the following styles:
+Sets the background color: off-white (background-color),
+Ensures that the font color is black (color),
+Ensures that all content edges match the edge of the browser window frame (margin and padding),
+Horizontally aligns the textual content to the left (text-align),
+Sets the font size to the browser’s default (font-size) and uses a sans-serif (a font
+without the little flicks around the edges) as font family (font-family).
+These settings are simple. Generally, follow these guidelines:
+When a color is specified, use Red-Green-Blue (RGB) hexadecimal light values.
+When a size is specified, use pixels (indicated by a px after the number); an em, which
+is indicated by em after the number (that is, the size of the font multiplied by the
+specified number); or a percentage, which is indicated by a % after the number.
+Text can be aligned left, right, or center.
+Floats can also be left or right.
+Vertical alignments must be top, middle, or bottom.
+Fonts can be any specific font or font family (serif, sans-serif, or monospace) or even
+a downloadable font.
+One of the most important decisions you must make when you are determining the design of
+your website is whether to use a fluid or a fixed layout.
+A fluid layout is a layout in which the height and width of elements is flexible and
+can expand or contract based on the browser window, the operating system, and other user
+preferences. You specify these elements mostly by using percentages and ems.
+A fixed layout is a layout where you specify the height and width of elements, and those
+values remain the same regardless of which operating system or browser you use to access
+the website. You specify these elements mostly by using pixels.
+When determining the layout, consider also the pros and cons for fluid and fixed layouts.
+The type of layout you choose depends on the type and amount of content and the target
+audience of the website.
+To apply a CSS, you must tell the browser where to look for it. This step is the only
+true point where HTML references a CSS. You can make the reference in one of two ways—the <style> tag
+or the <link> tag
+Style tag
+It “dirties” the page with a non-HTML code.
+You apply this style to only one page.
+If you copy and paste this style on each page, this approach increases the load time of each
+page, which causes the user to wait longer.
+Link tag
+You can link to it from other pages, which ensures a clean HTML and a smaller page size.
+To use this method, the <link> tag must be added to the  tag section.
+In this video, you learned:
+CSS creates a uniform look throughout each element of each page of the website,
+CSS design is separate from the data,
+Design can be removed for special accessibility renders,
+Search engines can index the website without the design interfering,
+CSS is usually coded in external style sheets,
+Create base styles for your website first,
+Choose a layout type,
+Fluid: the height and width of elements is flexible and can expand or contract,
+Fixed: the height and width of elements remains the same.
+
+
+Tags -
+Hello. Welcome to HTML5 Tags and Structural Elements.
+After watching this video, you will be able to:
+List specific elements to HTML5 and
+Describe HTML5 structural elements:
+section, article, header, footer, figure, figcaption.
+There are many HTML5 specific elements. The table shows some of them.
+Notice that the HTML5 element tags have intuitive names, such as audio that is used to embed
+sound content, and canvas that is used for graphical content.
+Not all of these element tags are covered in this video, so take a moment to read through
+the table.
+This table shows more HTML5 elements.
+The last tag in the table is the comments tag.
+Comments in HTML can assist the developer to explain what the code does.
+The browsers do not display these comments, unless the viewer views the source.
+In a division-based layout, each part of a page that you want to format differently is
+separated into its own division.
+Think of the natural divisions into which you can divide the page that is shown here.
+These divisions might include the page title, a banner with selectable tabs, an area for
+the image, and further blocks for text and thumbnail images.
+The <div> tag was not introduced in HTML5, but is a good starting point for laying out
+a page or document.
+Then, you can use other HTML5-specific structural elements inside the <div> tag.
+Most HTML elements have a semantic meaning. In other words, the element describes either
+the function or the type of data that is contained within.
+For example, a <p> element is a paragraph that usually contains some text.
+In contrast, the <div> tag has no innate semantic meaning besides the logical grouping of the
+content.
+You can use these dedicated elements to mark up your website, rather than using the generic
+<div> or <span> elements.
+An <article> defines a block of code that can be distinguished from the rest of the
+page.
+A <section> defines a logical separation in the document such as the numbered chapters
+of an online manual.
+A <header> element is used to group the headers for a page.
+The <footer> defines the area at the bottom of the page.
+This code example shows some of the HTML5 structural element.
+Here, the <article> element is used to create an online news report.
+The <article> includes a header.
+Within the <article>, the page is marked up into sections that have their own headers.
+The page also includes a <footer> element.
+The <aside> tag is used to provide additional information that is related to the main discussion.
+The aside tag lets you extract and display further content or go to additional resources
+without detracting from the main discussion.
+The <figure> tag defines a self-contained element that is referred to from the main
+content.
+The <figure> element can be used to embed graphics, images, or code sections.
+The <figurecaption> tag defines the caption for the contents of the <figure> element.
+Websites typically have sections that are dedicated to navigational links that go to
+these sites or for moving between pages of a single application.
+In HTML5 syntax, these navigational links are placed inside a
+tag.
+The <nav> tag is a convenience tag for grouping navigational links in a web page.
+Websites typically have sections that are dedicated to navigational links that go to
+these sites or for moving between pages of a single application.
+In HTML5 syntax, these navigational links are placed inside a
+tag.
+The <nav> tag is a convenience tag for grouping navigational links in a web page.
+In this video, you learned:
+Tags provide control within an HTML5 document.
+Some tags provide structural elements:
+The <div> tag separates areas in a document into divisions, enabling you to apply different
+styles to different parts of a document.
+Dedicated elements like <article>, <section>, <header>, and <footer> are more specific than
+the generic <div> element.
+The <aside>, <figure> and <figcaption> tags enable you to group content.
+And the <nav> tags enable you to group navigational links.
+
+
+input tag and valodation -
+
+Start of transcript. Skip to the end.
+Hello. Welcome to HTML5 Input Element: Attributes for the Input Tag.
+After watching this video, you will be able to:
+Describe the attributes of the HTML5 input element input type attributes tel, email,
+date time, number, range, and color.
+The < input type= "color" / > attribute allows the user to select a color.
+The dialog varies depending on the browser.
+Some browsers don’t support this input type.
+In non-supporting browsers, this input type is displayed as a regular text input field
+into which the user might type a valid color name or color code.
+The < input type="date" > attribute is a date control (year, month, day) with no time zone.
+The example shows the input type="date" field as it is seen in Google Chrome.
+The input dialog varies from browser to browser.
+The datetime-local attribute provides input for a date and time (year, month, day, hour,
+minute, AM/PM) with no time zone.
+The datetime-local input field is displayed as a drop-down calendar in the Google Chrome
+browser. The time can be typed or entered using the spinner control.
+The < input type="email" > attribute is displayed as a regular text input field.
+It provides feedback when the input does not follow the email format.
+The < input type="number" > takes a numeric value as input.
+You can optionally specify the minimum, maximum values, step size, etc.
+The example shows the number selector in the Chrome browser. Only the numbers between 5
+and the 10 are available for selection.
+The < input type="range" > takes a numeric range as input.
+The example shows the number selector in the Google Chrome browser.
+Only the numbers in the range of the minimum and the maximum are available for selection.
+The range attribute displays a slider with the range of values between the minimum and
+maximum.
+Only the slider itself is shown. Additional JavaScript code is needed in order to display
+the value of the slider.
+The differences between < input type="search"\ > and < input type="text" / > are mostly in
+style.
+WebKit-based browsers return a history of recently searched text strings.
+The search input field on the Safari browser has rounded corners.
+The input type="tel" pattern="[parameters]" attribute expects a telephone number as input.
+On its own, the < input type="tel" > provides nothing more than a text entry field in the
+browsers.
+It does not enforce numeric only input since many telephone numbers include other characters,
+such as the plus sign and hyphens.
+You need to supply your own pattern matcher if you want the browser to validate the telephone
+number.
+The URL attribute is used to validate that the user typed in a properly formatted URL
+or web address.
+The < input list="some_list" > uses the <datalist> feature.
+Not to be confused with the < select > element. The <datalist> options are only suggestions.
+Useful for auto-complete functionality.
+You can fill the list by nesting <option> elements inside the <datalist> tag.
+These options are the types of fruits listed in the drop-down list.
+Placeholder text is used to provide hints of what the input text format looks like.
+The placeholder fills the input text field with the example values in a lighter shade
+of text.
+The form does not submit the placeholder text value if the input text is not overwritten.
+The required attribute implies that some text must be typed.
+The requirement to type some input applies even if the field contains placeholder text.
+What happens if browser-based validation is not supported for these input attributes?
+There are several options to performing validation in browsers that do not support all HTML5
+input attributes.
+You can use JavaScript and JQuery libraries.
+You can assume that more browsers will support these features over time, and leave all final
+validation to server-side processing.
+You can code client-side validation that is attached to the form submit event handler
+to validate all the fields on the form when the form is submitted.
+In this video, you learned:
+Common attributes of the < input > tag.
+How to implement validation fallback.
+
+fieldset tag and legend tag
+
+After completing this reading section, you will be able to:
+
+Use the <fieldset> tag appropriately in HTML pages
+Use the <legend> tag to decorate your fieldset
+HTML fieldset tag
+The HTML <fieldset> tag is found within the <form> tag and is used to group related elements in an HTML form, often by enclosing them within a box.
+There is no restriction to the kind of elements that can be inside a fieldset, but they are mostly used to group related input type of elements, as shown in the example below.
+The fieldset element is especially useful in large forms, where readability and ease of access can be improved with segmentation. Browsers will most likely render a frame around the grouped controls.
+Syntax
+<fieldset> Contents... </fieldset>
+
+Attributes
+disabled: It specifies that the elements belonging to the fieldset should be disabled.
+form: It specifies the id of the form that the fieldset is to be considered a part of.
+name: It specifies the name for the fieldset.
+
+
+
+client side javascript with DOM
+
+Hello. Welcome to Client-side JavaScript.
+After watching this video, you will be able to:
+Describe the document object model (DOM) hierarchy.
+Describe the window and document objects.
+Identify the DOM objects that are commonly used in JavaScript applications for working
+with HTML documents.
+The document object model is the programming interface between HTML or XHTML and JavaScript.
+The Document Object Model (DOM) is a browser-based interface for applications and scripts to
+dynamically access and update the content, structure, and style of documents.
+JavaScript uses the DOM to access and modify web page elements in the web browser.
+The World Wide Web Consortium released four levels of the Document Object Model specifications.
+Each successive level provides a more detailed set of features for describing structured
+documents.
+The different browsers have various levels of compatibility with the DOM standard.
+The discussion of the DOM in this unit focuses on the DOM Level 1 Core and DOM Level 1 HTML
+APIs to access HTML elements with the DOM.
+The JavaScript engine in most web browsers fully supports DOM level 1.
+Here is a representation of the basic DOM model for browsers:
+The window object is at the top of the DOM hierarchy and controls the environment that
+contains the document.
+The history object keeps internal details about the recent history of pages in the browser.
+The history object has methods for letting you simulate clicking the back or forward
+buttons in a browser.
+The location object contains information about the URL of a page.
+The navigator is an object representation of the client Internet browser (user agent).
+There is no standard that applies to the navigator object, so the property values returned when
+running queries on the navigator object are not consistent across browsers.
+The screen object is used to derive information about a user's screen, such as the dimensions
+of the display screen.
+The screen object is useful for determining the screen size of browser windows that run
+on mobile devices.
+The document object provides access to all HTML elements within a page.
+Each HTML document that gets loaded into a window becomes a document object.
+The window object is the outermost global container of all the objects in the DOM hierarchy.
+When the browser loads a page, a window object is automatically created for you.
+You can then access the window object properties and functions from your JavaScript code.
+In client-side JavaScript, the Window object serves as the global object and everything
+in the DOM takes place in a window.
+A number of predefined methods exist for the window object.
+The window.alert, window.confirm, and window.prompt dialogs that are used in web pages, come from
+the global window object.
+You can leave out the window prefix for methods in the DOM API. So the window.alert method
+can be coded more simply as alert with a message argument.
+This figure shows the object model for a simple HTML document.
+Notice how the object hierarchy matches the HTML containment hierarchy on the left.
+The object diagram can also be represented as a tree structure that corresponds to the
+structure of the HTML document.
+The branches of the tree structure are termed nodes.
+There are two types of nodes in the W3C DOM, element nodes and text nodes.
+All HTML tags (html, head, meta, title, and body) are element nodes.
+The nodes that contain actual text that go between an element start tag and end tag,
+are text nodes.
+The figure shows the DOM level 2 tree for the FORM portion of the document.
+The line feeds between elements are text nodes and are part of the DOM level 2 tree.
+The DOM level 2 tree includes a line feed text node before the paragraph and input elements.
+The input element includes a text node that contains all the text that follows the input
+tag.
+An additional line feed text node follows the input element.
+The DOM level 0 for the form portion of the document would have only the form, p, and
+input boxes.
+The DOM level 2 adds the carriage returns, tabs, and spaces, sometimes referred to as
+"white space".
+In this video, you learned:
+The document object model (DOM) is the programming interface between HTML or XHTML and JavaScript.
+Each successive level of the DOM provides a more detailed set of features for describing
+structured documents.
+Different browsers have different levels of compatibility with the DOM standard.
+The basic DOM for browsers is a hierarchy that includes objects that perform different
+functions.
+For example, the window object controls the environment of the document, the location
+object contains information about the URL of the page, screen object derives information
+about the user’s screen, and the document object provides access to all HTML elements
+within a page.
+DOM levels define object types, with which developers can build a variety of documents,
+from plain HTML documents for web pages, to more complex forms.
+
+
+
+
+java script api
+
+Start of transcript. Skip to the end.
+Hello. Welcome to JavaScript APIs.
+After watching this video, you will be able to:
+Explain how to work with nodes,
+Describe how to modify the content of an element,
+Explain how to modify the inline style of an object,
+Describe how to modify the attributes of an object,
+Describe how to use Window object methods and events.
+The DOM Level 1 core and Level 1 HTML specifications have too much detail for one unit.
+Instead, the remainder of the unit focuses on script functions and properties that are
+commonly used when working with HTML pages.
+Some of these common APIs used in when accessing HTML DOM elements in web pages are seen on
+the slide.
+DOM elements are reviewed next.
+To retrieve a node reference for an element of a document given an id, use the document.getElementById
+function and pass the id value as an argument.
+This returns one specific HTML or XML element if a matching unique id is found on the web
+page.
+The getElementsByTagName function retrieves a NodeList of elements with a specified tag
+name.
+The NodeList contains an array of elements in your document.
+You provide the name of the element you are interested in and an array of all elements
+with that name found in the document is returned.
+For HTML elements, the tagName parameter is the literal name of the HTML tag.
+If you run the function getElementsByTagName with a “p” as a parameter argument, a
+NodeList of all the paragraphs in the document is returned.
+This example shows how you can retrieve all the image elements from a web page by using
+the getElementsByTagName function and passing “img” as the parameter argument.
+The result is a NodeList that is assigned to the variable imgSet.
+In the next part of the code, you loop through the nodeList and concatenate the results into
+a DOM output stream.
+The src attribute is a common property for the img tag. The src attribute indicates the
+location of the image source.
+The document.write() function adds the script-generated HTML to the document.
+You can use the DOM API function document.createElement(TagName) to create an element in the current document.
+After creating the element, you can use any of a number of functions to place the element
+in the appropriate location within the document.
+Examples of these functions include the insertBefore, appendChild, or replaceChild function that
+can be used to add the newly created element into the document.
+This example shows the source code for adding a node to a document.
+A new paragraph element is being created that includes a text node with the string “Hello
+world!”
+The text node is then appended as a child of the paragraph element.
+Finally, the entire paragraph with text is appended as a child node at the end of the
+body node of the HTML page.
+The function element.innerHTML retrieves or sets the contents of an HTML element.
+The innerHTML property returns all child elements as a text string.
+With the element.innerHTML function, you can change the contents of an HTML element, by
+setting it to a text string that can include HTML tags.
+Setting the innerHTML value of an element to a string removes all of the current child
+elements. The browser then parses the string and sets the contents of the HTML element.
+You can use the element.style method to retrieve or set the inline CSS style for a particular
+element.
+If you use element.style to set the style of an element, it overrides any setting from
+a CSS style sheet with one specific style.
+The way to set the style in JavaScript is with the format element.style.propertyName
+= value.
+For example, if you had an element <div style="color:blue">.
+Here the <div> tag is used to group block-elements to format them with a color style. You can
+change the style of this div tag with the JavaScript statement:
+div.style.color = 'red';
+In contrast, the element.setAttribute('style', …) wipes out all previously set inline CSS
+styles.
+The function element.setAttribute with parameters(attrName, attrValue) dynamically modifies the attribute
+of an element.
+In the example, the src attribute of an element with an id of theImage is set to a different
+target image.
+The function element.removeAttribute(attrName) removes an attribute from an element.
+The function element.getAttribute(attrName) retrieves the value of the specified attribute
+in the element, if it exists.
+Here are some window object functions and events.
+To open a new browser window, use the window.open() function.
+This method returns a reference to the new window object.
+You can use this reference later to close the window, with the reference_name followed
+by the close() function.
+The parameters of the window.open function are:
+URL - A string that indicates the location of the web page to be displayed in the new
+window.
+You can pass an empty string if you are going to write some script- generated content to
+the new window in the current URL context.
+Name - A string that specifies the name of the window.
+Features - An optional string that specifies the features of the window, such as its placement
+and dimensions. The features string is a comma-separated list of name- value pairs.
+Replace – An optional boolean value. If true, the new location replaces the current
+page in the browser history.
+The window.onload function can be used to start a function after the page is loaded.
+The function, window.dump("message") writes a string into the console for the web browser.
+The dump() function is a less intrusive way to display diagnostic information than the
+alert() method.
+Finally, the window.scrollTo(x-value, y-value) scrolls the web browser to a particular set
+of coordinates on a page.
+The onload event handler runs in the current window after the document loads the web page.
+In the example, the onload event causes an anonymous function to run. This function,
+in turn, runs the function addPara().
+In this video, you learned:
+You can retrieve a reference to a node using:
+document.getElementById(id) - Returns one specific element that is based on the id attribute.
+document.getElementsByTagName(tagName) - retrieves a of elements with the specified tag.
+You can create an element using:
+document.createElement(TagName).
+And place it using:
+insertBefore, appendChild, or replaceChild.
+You can modify elements using:
+element.innerHTML to retrieve or set the contents of an HTML element.
+element.style to retrieve or set the inline CSS style.
+element.setAttribute to modify the attributes of an element.
+You can manage a window object using functions including:
+window.open to return reference to a new window object for the web browser.
+window.dump("message") to write a string into the console for the web browser.
+This is not an exhaustive list – many more functions exist that enable you to work with
+HTML elements and nodes.
+Window Object Methods & Events
+
+
+
+
+
